@@ -1,0 +1,19 @@
+.LeftAlign{
+    text-align: left;
+  }
+  .RightAlign{
+    text-align: right;
+  }
+  .Whitefont{
+    color: white;
+  }
+  .SidePadding{
+    padding: 10px;
+  }
+  .Padding-none{
+    padding: 0%;
+    margin: 0%;
+  }
+  .border-none{
+    border: none;
+  }
